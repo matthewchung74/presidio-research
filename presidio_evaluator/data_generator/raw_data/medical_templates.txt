@@ -1,0 +1,8 @@
+<b>Comparison:</b>  {{date_time}}<br /><br />
+<br /><br /><br />Electronically signed by: {{person}} {{person}} DO ({{date_time}} <br /><br />
+X-ray Chest, Portable ***START OF ADDENDUM*** Critical finding results discussed with {{person}} {{person}} RN at 1727 hrs. 
+Technique: PA and lateral views of the chest
+PREVIOUS REPORT: HISTORY: Subcutaneous emphysema. Comparison chest radiograph earlier same day, 1007 hrs and {{date_time}}. 
+FINDINGS: Single frontal view of the chest. LUNG PARENCHYMA:
+The procedure was performed at {{organization}}
+Accession Number: {{us_driver_license}}
